@@ -1,0 +1,13 @@
+numpy
+scipy
+sympy
+matplotlib
+vtk
+pyevtk
+pandas
+wget
+scipy
+visualdl
+pyvista
+pysdf
+paddlepaddle-gpu
